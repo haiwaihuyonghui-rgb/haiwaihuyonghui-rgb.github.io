@@ -1,3 +1,5 @@
+**📚 全部教程合集：[国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（ChatGPT Plus / Pro、Claude Pro / Max、Grok、Gemini Pro、Codex / Claude Code，16 章一个仓库，价格每周核对；网页版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
+
 # 瑶瑶ai训练师 · AI 会员国内开通攻略合集
 
 > 最后更新：2026-10-27 · 汇总本账号全部简体中文攻略的网页版地址。
